@@ -77,12 +77,6 @@
         <name>shanvi-nexus-release</name>
         <url>http://192.168.50.100:8081/repository/shanvi-nexus-release/</url>
     </repository>
-	
-    <snapshotrepository>
-        <id>nexus</id>
-        <name>shanvi-nexus-snapshot</name>
-        <url>http://192.168.50.100:8081/repository/shanvi-nexus-snapshot/</url>
-    </snapshotrepository>
 </distributionManagement>
 	
 	<build>
