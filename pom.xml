@@ -75,7 +75,7 @@
     <repository>
         <id>nexus</id>
         <name>shanvi-nexus-release</name>
-        <url>http://192.168.50.100:8081/repository/shanvi-nexus-release/</url>
+        <url>http://192.168.56.100:8081/repository/shanvi-nexus-release/</url>
     </repository>
 </distributionManagement>
 	
